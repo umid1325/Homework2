@@ -5,7 +5,7 @@ using namespace std;
 int main() {
     long long int n;
     cin >> n;
-    if (n<=INT_MAX and n>=(-1)*INT_MAX) {
+    if (n<=2147483647 and n>=-2147483647) {
         cout<<"YES"<<endl;
     } else {
         cout<<"NO"<<endl;

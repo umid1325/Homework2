@@ -1,3 +1,8 @@
 /Users/u.mamasaliyev/CLionProjects/Homework2/cmake-build-debug/CMakeFiles/Homework2.dir
+/Users/u.mamasaliyev/CLionProjects/Homework2/cmake-build-debug/CMakeFiles/problem1.dir
+/Users/u.mamasaliyev/CLionProjects/Homework2/cmake-build-debug/CMakeFiles/problem2.dir
+/Users/u.mamasaliyev/CLionProjects/Homework2/cmake-build-debug/CMakeFiles/problem3.dir
+/Users/u.mamasaliyev/CLionProjects/Homework2/cmake-build-debug/CMakeFiles/problem4.dir
+/Users/u.mamasaliyev/CLionProjects/Homework2/cmake-build-debug/CMakeFiles/problem5.dir
 /Users/u.mamasaliyev/CLionProjects/Homework2/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/u.mamasaliyev/CLionProjects/Homework2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

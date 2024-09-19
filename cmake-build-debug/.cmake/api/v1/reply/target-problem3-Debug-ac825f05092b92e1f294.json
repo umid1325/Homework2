@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "Homework2"
+			"path" : "problem3"
 		}
 	],
 	"backtrace" : 1,
@@ -25,7 +25,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 8,
+				"line" : 18,
 				"parent" : 0
 			},
 			{
@@ -67,7 +67,7 @@
 			]
 		}
 	],
-	"id" : "Homework2::@6890427a1f51a3e7e1df",
+	"id" : "problem3::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -83,8 +83,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "Homework2",
-	"nameOnDisk" : "Homework2",
+	"name" : "problem3",
+	"nameOnDisk" : "problem3",
 	"paths" : 
 	{
 		"build" : ".",
@@ -98,13 +98,6 @@
 			[
 				0
 			]
-		},
-		{
-			"name" : "Header Files",
-			"sourceIndexes" : 
-			[
-				1
-			]
 		}
 	],
 	"sources" : 
@@ -112,13 +105,8 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "main.cpp",
+			"path" : "problem3.cpp",
 			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"path" : "main.h",
-			"sourceGroupIndex" : 1
 		}
 	],
 	"type" : "EXECUTABLE"

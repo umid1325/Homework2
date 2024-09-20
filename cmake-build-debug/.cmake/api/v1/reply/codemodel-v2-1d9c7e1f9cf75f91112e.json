@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Homework2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Homework2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Homework2-Debug-3ce94c9aefcdd2953e53.json",
+					"name" : "Homework2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "problem1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-problem1-Debug-5e5588d1b23b83c51859.json",
+					"name" : "problem1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "problem2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-problem2-Debug-4d2d792d8e277a5b7aff.json",
+					"name" : "problem2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "problem3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-problem3-Debug-2ec8eebace49e571355e.json",
+					"name" : "problem3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "problem4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-problem4-Debug-fb67ee7e8e61423d22bb.json",
+					"name" : "problem4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "problem5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-problem5-Debug-856a4905334a4225585a.json",
+					"name" : "problem5",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Umid/CLionProjects/Homework2/cmake-build-debug",
+		"source" : "C:/Users/Umid/CLionProjects/Homework2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
